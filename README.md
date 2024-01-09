@@ -1,4 +1,4 @@
-Hi 👋 I am Djeukeu 
+Hi 👋 I'm Djeukeu 
 ==============================
 
 I'm a software developer.
@@ -38,7 +38,7 @@ Check out my website if you want to know more about me, my skills and projects. 
 
 
 
-### Socials
+### Connect with me: 
 
 <a href="https://www.linkedin.com/in/djeukeu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
