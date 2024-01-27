@@ -33,11 +33,7 @@ Check out my portfolio if you want to know more about me, my skills and projects
 
 * 🌍 Portfolio: https://djeukeu.com/
 * ✉️  Contact me: [christian@djeukeu.com](mailto:christian@djeukeu.com)
-* 📍  I'm based in Leeds, United Kingdom
 
-### Connect with me: 
-
-<a href="https://www.linkedin.com/in/djeukeu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ### GitHub Stats
 
