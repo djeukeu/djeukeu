@@ -13,7 +13,7 @@ Check out my portfolio if you want to know more about me, my skills and projects
 * ✉️  Contact me: [christian@djeukeu.com](mailto:christian@djeukeu.com)
 
 
-GitHub Stat 
+GitHub Stats
 ==============================
 <img alt="djeukeu stats result" src="https://djeukeu.vercel.app/api?username=djeukeu&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a25" />
 
