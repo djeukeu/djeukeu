@@ -26,12 +26,14 @@ As a developer, I like to learn new technologies, regardless of the area of expe
 * Cloud Computing
 
 ## My Github Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=djeukeu&theme=radical&margin-w=40&margin-h=40)](https://github.com/djeukeu)
 
 ## My Github Stats
-|-|-|
 
-![Banner and Slogan](https://djeukeu.vercel.app/api/top-langs/?username=djeukeu&layout=pie&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a255)|![Banner and Slogan](https://djeukeu.vercel.app/api?username=djeukeu&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a25)
+![Banner and Slogan](https://djeukeu.vercel.app/api?username=djeukeu&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a25)
+
+![Banner and Slogan](https://djeukeu.vercel.app/api/top-langs/?username=djeukeu&layout=pie&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a255)
 
 
 ## My Favorite tools
