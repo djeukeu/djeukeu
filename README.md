@@ -1,3 +1,6 @@
+![Design and Development](https://github.com/djeukeu/djeukeu/blob/main/banner.png)
+
+
 Hi 👋 I'm Djeukeu 
 ==============================
 
