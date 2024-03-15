@@ -26,12 +26,13 @@ As a developer, I like to learn new technologies, regardless of the area of expe
 * Cloud Computing
 
 ## My Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=djeukeu&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+[![trophy](https://github-profile-trophy.vercel.app/?username=djeukeu&theme=radical&margin-w=40&margin-h=40)](https://github.com/djeukeu)
 
 ## My Github Stats
-<img alt="djeukeu stats result" src="https://djeukeu.vercel.app/api?username=djeukeu&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a25" />
+|-|-|
 
-<img alt="djeukeu lang piechart stats" src="https://djeukeu.vercel.app/api/top-langs/?username=djeukeu&layout=pie&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a25" />
+![Banner and Slogan](https://djeukeu.vercel.app/api/top-langs/?username=djeukeu&layout=pie&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a255)|![Banner and Slogan](https://djeukeu.vercel.app/api?username=djeukeu&show_icons=true&hide_border=false&title_color=3a529b&icon_color=3a529b&bg_color=191923&text_color=ffffff&border_color=0c1a25)
+
 
 ## My Favorite tools
 
@@ -47,7 +48,6 @@ As a developer, I like to learn new technologies, regardless of the area of expe
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white">
 <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
@@ -76,9 +76,19 @@ As a developer, I like to learn new technologies, regardless of the area of expe
 <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img alt="handlebarsdotjs" src="https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black">
 <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-<img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+<img alt="Material" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+<img alt="next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+<img alt="Socket" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
+<img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white">
+<img alt="cordova" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+<img alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </p>
 <br>
 
@@ -98,8 +108,6 @@ As a developer, I like to learn new technologies, regardless of the area of expe
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-<img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 </p>
 <br>
 
@@ -114,12 +122,15 @@ As a developer, I like to learn new technologies, regardless of the area of expe
 <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
-<img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-<img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+<img alt="android" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img alt="20netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
 </p>
 <br>
 
-Check out my portfolio if you want to know more about me, my skills and projects. You can also contact me.
+Check out my website if you want to know more about me, my skills and projects. You can also contact me.
 * 🌍 Portfolio: https://djeukeu.com/
 * ✉️  Contact me: [christian@djeukeu.com](mailto:christian@djeukeu.com)
 
