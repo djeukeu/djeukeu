@@ -7,13 +7,6 @@ Hi 👋 I'm Christian Djeukeu
 
 I am meticulous, organised and a Certified AWS Developer with years of experience in defining requirements, designing, implementing and deploying applications. Using the tools and knowledge I have gained over the years as a Developer, I oversee the client's project from the identification of the client's needs to the completion of the project.
 
-As a Developer, I have a wide range of skills, whether it is mobile development, front-end development, back-end development, database management, UI/UX design or cloud computing.
-
-
-
-
-
-
 ## Skills
 
 * Front-end Development
