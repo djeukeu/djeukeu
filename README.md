@@ -5,19 +5,16 @@ Hi 👋 I'm Christian Djeukeu
 ==============================
 
 
-I am meticulous, organised and a Certified AWS Developer with years of experience in defining requirements, designing, implementing and deploying applications. Using the tools and knowledge I have gained over the years as a developer, I oversee client projects from the identification of project needs through to completion. As a developer, I have a wide range of skills in mobile development, front-end development, back-end development, database management, UI/UX design and cloud computing.
+A hardworking, communicative and results-oriented software developer with extensive experience in full-stack development, cloud computing and DevOps. Skilled in designing, developing and deploying scalable web and mobile applications using modern frameworks such as React, React-Native, Node.js and Spring Boot. Skilled in AWS, Terraform, Docker and CI/CD pipelines to ensure efficient and automated deployment processes. Seeking the opportunity to be onboarded into a company or project that values professional development, process improvement, and inclusion to contribute existing and newly acquired skills.
 
 ## Skills
 
-* Software Coding
-* Software Deployment
-* UI /UX Design
-* Amazon Web Services (AWS)
+* Mobile Development
+* Front-end Development
+* Back-end Development
+* UI / UX Design
 * Cloud Computing
-* HashiCorp Terraform
-* Infrastructure Automation
-* Infrastructure as Code (IaC)
-* Multi-Cloud
+* Software Automation
 
 ## My Github Trophy
 
