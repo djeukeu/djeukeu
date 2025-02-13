@@ -5,7 +5,7 @@ Hi 👋 I'm Christian Djeukeu
 ==============================
 
 
-A hardworking, communicative and results-oriented software developer with extensive experience in full-stack development, cloud computing and DevOps. Skilled in designing, developing and deploying scalable web and mobile applications using modern frameworks such as React, React-Native, Node.js and Spring Boot. Skilled in AWS, Terraform, Docker and CI/CD pipelines to ensure efficient and automated deployment processes. Seeking the opportunity to be onboarded into a company or project that values professional development, process improvement, and inclusion to contribute existing and newly acquired skills.
+A hardworking, communicative and results-oriented software developer with extensive experience in full-stack development, cloud computing and DevOps. Skilled in designing, developing and deploying scalable web and mobile applications using modern frameworks such as React, React-Native, Node.js and Spring Boot. Skilled in AWS, Terraform, Docker and CI/CD pipelines to ensure efficient and automated deployment processes.
 
 ## Skills
 
